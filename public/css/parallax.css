@@ -1,0 +1,9 @@
+/*.footer .p-footer {
+  opacity: 0;
+  transform: translate(0, 0);
+  transition: .5s;
+}
+
+.footer .p-footer.show {
+  opacity: 1;
+}*/
